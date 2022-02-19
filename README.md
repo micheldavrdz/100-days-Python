@@ -2,7 +2,7 @@
 
 ## English
 
-This repository is simply to store my journey learning Python with a daily project for a 100 days
+This repository is simply to log my journey learning Python with a daily project for a 100 days
 
 ### Projects
 
