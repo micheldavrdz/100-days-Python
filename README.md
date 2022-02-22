@@ -11,6 +11,7 @@ This repository is simply to log my journey learning Python with a daily project
 * Day 3: CYOA (Choose Your Own Adventure) game
 * Day 4: RPS (Rock Paper Scissors) game
 * Day 5: FizzBuzz and Password generator
+* Day 6: Robot in a maze
 
 ## Spanish
 
@@ -23,3 +24,4 @@ Este repositorio es simplemente para guardar mi viaje de aprendizaje de Python c
 * Día 3: Juego ETPA (Elige Tu Propia Aventura)
 * Día 4: Juego PPT (Piedra, Papel o Tijeras)
 * Dia 5: FizzBuzz y Generador de contraseñas
+* Día 6: Robot en un laberinto
