@@ -12,6 +12,7 @@ This repository is simply to log my journey learning Python with a daily project
 * Day 4: RPS (Rock Paper Scissors) game
 * Day 5: FizzBuzz and Password generator
 * Day 6: Robot in a maze
+* Day 7: Hangman
 
 ## Spanish
 
@@ -25,3 +26,4 @@ Este repositorio es simplemente para guardar mi viaje de aprendizaje de Python c
 * Día 4: Juego PPT (Piedra, Papel o Tijeras)
 * Dia 5: FizzBuzz y Generador de contraseñas
 * Día 6: Robot en un laberinto
+* Día 7: Ahorcado
