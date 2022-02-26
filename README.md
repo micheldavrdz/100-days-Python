@@ -14,6 +14,7 @@ This repository is simply to log my journey learning Python with a daily project
 * Day 6: Robot in a maze
 * Day 7: Hangman
 * Day 8: Caesar Cipher
+* Day 9: Blind Auction
 
 ## Spanish
 
@@ -29,3 +30,4 @@ Este repositorio es simplemente para guardar mi viaje de aprendizaje de Python c
 * Día 6: Robot en un laberinto
 * Día 7: Ahorcado
 * Día 8: Cifrado Caesar
+* Dia 9: Subasta Ciega
