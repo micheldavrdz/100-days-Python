@@ -2,7 +2,7 @@
 
 ## English
 
-This repository is simply to log my journey learning Python with a daily project for a 100 days
+This repository is simply to log my journey learning Python with a daily project for 100 days
 
 ### Projects
 
@@ -13,10 +13,11 @@ This repository is simply to log my journey learning Python with a daily project
 * Day 5: FizzBuzz and Password generator
 * Day 6: Robot in a maze
 * Day 7: Hangman
-* Day 8: Caesar Cipher
-* Day 9: Blind Auction
+* Day 8: Caesar cipher
+* Day 9: Blind auction
 * Day 10: Calculator
-* Day 11: Simple Blackjack
+* Day 11: Simple blackjack
+* Day 12: Number guessing game
 
 ## Spanish
 
@@ -32,6 +33,7 @@ Este repositorio es simplemente para guardar mi viaje de aprendizaje de Python c
 * Día 6: Robot en un laberinto
 * Día 7: Ahorcado
 * Día 8: Cifrado Caesar
-* Dia 9: Subasta Ciega
+* Dia 9: Subasta ciega
 * Día 10: Calculadora
-* Día 11: Blackjack Sencillo
+* Día 11: Blackjack sencillo
+* Día 12: Adivina el número
